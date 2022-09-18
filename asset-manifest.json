@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://srinanoo.github.io/deepak-antd-proj-build/static/css/main.a8bb5f88.css",
-    "main.js": "https://srinanoo.github.io/deepak-antd-proj-build/static/js/main.ef5b05fc.js",
-    "static/js/787.1f11dfe9.chunk.js": "https://srinanoo.github.io/deepak-antd-proj-build/static/js/787.1f11dfe9.chunk.js",
-    "index.html": "https://srinanoo.github.io/deepak-antd-proj-build/index.html",
-    "main.a8bb5f88.css.map": "https://srinanoo.github.io/deepak-antd-proj-build/static/css/main.a8bb5f88.css.map",
-    "main.ef5b05fc.js.map": "https://srinanoo.github.io/deepak-antd-proj-build/static/js/main.ef5b05fc.js.map",
-    "787.1f11dfe9.chunk.js.map": "https://srinanoo.github.io/deepak-antd-proj-build/static/js/787.1f11dfe9.chunk.js.map"
+    "main.css": "/static/css/main.a8bb5f88.css",
+    "main.js": "/static/js/main.652790d7.js",
+    "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
+    "index.html": "/index.html",
+    "main.a8bb5f88.css.map": "/static/css/main.a8bb5f88.css.map",
+    "main.652790d7.js.map": "/static/js/main.652790d7.js.map",
+    "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a8bb5f88.css",
-    "static/js/main.ef5b05fc.js"
+    "static/js/main.652790d7.js"
   ]
 }
